@@ -1,0 +1,145 @@
+{
+    "groups": [
+        {
+            "keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png",
+            "name": "preload"
+        }
+    ],
+    "resources": [
+        {
+            "name": "checkbox_select_disabled_png",
+            "type": "image",
+            "url": "assets/CheckBox/checkbox_select_disabled.png?v=15855383158407123"
+        },
+        {
+            "name": "checkbox_select_down_png",
+            "type": "image",
+            "url": "assets/CheckBox/checkbox_select_down.png?v=15855383158427067"
+        },
+        {
+            "name": "checkbox_select_up_png",
+            "type": "image",
+            "url": "assets/CheckBox/checkbox_select_up.png?v=15855383158447018"
+        },
+        {
+            "name": "checkbox_unselect_png",
+            "type": "image",
+            "url": "assets/CheckBox/checkbox_unselect.png?v=15855383158456988"
+        },
+        {
+            "name": "selected_png",
+            "type": "image",
+            "url": "assets/ItemRenderer/selected.png?v=15855383158487108"
+        },
+        {
+            "name": "border_png",
+            "type": "image",
+            "url": "assets/Panel/border.png?v=15855383158506846"
+        },
+        {
+            "name": "header_png",
+            "type": "image",
+            "url": "assets/Panel/header.png?v=15855383158527038"
+        },
+        {
+            "name": "radiobutton_select_disabled_png",
+            "type": "image",
+            "url": "assets/RadioButton/radiobutton_select_disabled.png?v=15855383158596613"
+        },
+        {
+            "name": "radiobutton_select_down_png",
+            "type": "image",
+            "url": "assets/RadioButton/radiobutton_select_down.png?v=1585538315861656"
+        },
+        {
+            "name": "radiobutton_select_up_png",
+            "type": "image",
+            "url": "assets/RadioButton/radiobutton_select_up.png?v=15855383158626533"
+        },
+        {
+            "name": "radiobutton_unselect_png",
+            "type": "image",
+            "url": "assets/RadioButton/radiobutton_unselect.png?v=15855383158646479"
+        },
+        {
+            "name": "roundthumb_png",
+            "type": "image",
+            "url": "assets/ScrollBar/roundthumb.png?v=1585538315869635"
+        },
+        {
+            "name": "thumb_png",
+            "type": "image",
+            "url": "assets/Slider/thumb.png?v=15855383158736243"
+        },
+        {
+            "name": "track_png",
+            "type": "image",
+            "url": "assets/Slider/track.png?v=15855383158756192"
+        },
+        {
+            "name": "tracklight_png",
+            "type": "image",
+            "url": "assets/Slider/tracklight.png?v=15855383158776133"
+        },
+        {
+            "name": "handle_png",
+            "type": "image",
+            "url": "assets/ToggleSwitch/handle.png?v=1585538315879608"
+        },
+        {
+            "name": "off_png",
+            "type": "image",
+            "url": "assets/ToggleSwitch/off.png?v=15855383158816028"
+        },
+        {
+            "name": "on_png",
+            "type": "image",
+            "url": "assets/ToggleSwitch/on.png?v=15855383158835979"
+        },
+        {
+            "name": "button_down_png",
+            "type": "image",
+            "url": "assets/Button/button_down.png?v=1585538315835727"
+        },
+        {
+            "name": "button_up_png",
+            "type": "image",
+            "url": "assets/Button/button_up.png?v=15855383158377216"
+        },
+        {
+            "name": "thumb_pb_png",
+            "type": "image",
+            "url": "assets/ProgressBar/thumb_pb.png?v=1585538315854699"
+        },
+        {
+            "name": "track_pb_png",
+            "type": "image",
+            "url": "assets/ProgressBar/track_pb.png?v=1585538315856692"
+        },
+        {
+            "name": "track_sb_png",
+            "type": "image",
+            "url": "assets/ScrollBar/track_sb.png?v=15855383158716295"
+        },
+        {
+            "name": "egret_icon_png",
+            "type": "image",
+            "url": "assets/egret_icon.png?v=15855383158985822"
+        },
+        {
+            "name": "bg_jpg",
+            "type": "image",
+            "url": "assets/bg.jpg?v=1585538315893594"
+        },
+        {
+            "name": "aatrack_sb_png",
+            "type": "image",
+            "url": "assets/ScrollBar/aatrack_sb.png"
+        },
+        {
+            "name": "description_json",
+            "type": "json",
+            "url": "config/description.json"
+        }
+    ]
+}
