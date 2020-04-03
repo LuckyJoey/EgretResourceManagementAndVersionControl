@@ -1,0 +1,2 @@
+# EgretResourceManagementAndVersionControl
+Egret Resource management and version control
